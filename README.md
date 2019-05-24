@@ -1,4 +1,4 @@
-# rgrasswrap
+# rgrasswrap :seedling::mag::earth_africa:
 ## A user-friendly wrapper for rgrass7 functions, especially execGRASS(), and to teach GRASS to new users
 
 The R pacakge `rgrass7` is a great tool which allows you to script all the work in the GIS software GRASS, right in R, without ever having to write a GRASS script. `rgrasswrap` is meant to be a wrapper around `rgrass7` to help new users getting started with a classic workflow in GRASS and to help teach GRASS as a GIS tool in R. 
