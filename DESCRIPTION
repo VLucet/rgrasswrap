@@ -1,11 +1,15 @@
 Package: rgrasswrap
 Type: Package
-Title: What the Package Does (Title Case)
+Title: A user-friendly wrapper for rgrass7 functions, especially execGRASS(), 
+  and to teach GRASS to R users.
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Valentin Lucet [aut, cre]
+Maintainer: valentin Lucet <valentin.lucet@mail.mcgill.ca>
+Description: rgrasswrap is meant to be a wrapper around rgrass7 to help new users getting 
+  started with a classic workflow in GRASS and to help teach GRASS as a GIS tool in R.
+License: GPL-3 + file LICENSE
+Imports: rgrass7
 Encoding: UTF-8
 LazyData: true
+Authors@R: person("Valentin", "Lucet", email = "valentin.lucet@mail.mcgill.ca", 
+    role = c("aut", "cre"))
